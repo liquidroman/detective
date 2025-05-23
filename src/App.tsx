@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className={styles.readTheDocs}>
-        Ты солнышко!
+        Ты чуд!
       </p>
     </div>
   )
